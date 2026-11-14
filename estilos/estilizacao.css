@@ -1,12 +1,13 @@
 @charset "UTF-8";
 
 :root {
-    --fundo: #111827;
-    --superficie: #1E293B;
-    --principal: #6366F1;
-    --destaque: #A78BFA;
-    --texto: #F8FAFC;
-    --texto-secundario: #94A3B8;
+    --fundo: #080808;
+    --superficie: #171717;
+    --principal: #7C3AED;
+    --destaque: #5421ec;
+    --roxo-claro:#A78BFA;
+    --texto: #F5F5F5;
+    --texto-secundario: #A1A1AA;
 }
 
 
@@ -38,7 +39,7 @@ header nav a{
     transition: color 0.5s ease;
 }
 header nav a:hover{
-    color: #A78BFA;
+    color: var(--principal);
 }
 main{
     display: grid;
