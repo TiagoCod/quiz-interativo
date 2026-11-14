@@ -24,7 +24,8 @@ body{
 }
 header{
     padding: 10px;
-    background-color: brown;
+    background-color: var(--fundo);
+    border: 1px solid var(--superficie);
     
     display: flex;
     justify-content: space-between;
@@ -84,7 +85,7 @@ main #acoes button{
 }
 main #acoes button:hover{
     cursor: pointer;
-    background-color: var(--texto-secundario);
+    background-color: var(--principal);
 }
 button.alternativa{
     padding: 10px;
