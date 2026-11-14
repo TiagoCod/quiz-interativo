@@ -6,7 +6,7 @@ O projeto conta com perguntas de múltipla escolha, validação de respostas, po
 
 ## 🚀 Demonstração
 
-🔗 **Acesse o projeto:** [Quiz Interativo]([tiagocod.github.io/quiz-interativo/](https://tiagocod.github.io/quiz-interativo/))
+🔗 **Acesse o projeto:** [Quiz Interativo](https://tiagocod.github.io/quiz-interativo/)
 
 ## ✨ Funcionalidades
 
